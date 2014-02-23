@@ -78,3 +78,11 @@ type: `Boolean`
 default: `false`
 
 By default, it will print the command output.
+
+#### options.cwd
+
+type: `String`
+
+default: `null`
+
+Sets the current working directory for the command.
